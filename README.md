@@ -1,6 +1,6 @@
 # Olá, sou Ivan Figueiredo Borges👋
 
-Sou analista de daodos, por aqui vai achar códigos e rascunhos. Fique a vontade pra melhorar no que for possivel 
+Sou Analista de Dados, por aqui vai achar códigos e rascunhos. Sinta-se a vontade para melhorar no que for possivel.
 
 Minhas principais skills:
 
