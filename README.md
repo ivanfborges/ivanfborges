@@ -17,7 +17,8 @@ Minhas principais skills:
 
 ## Atuação Profissional 
 
-- Analista de Dados / Youx Group - Unidade Analytics (04/2023 - Até o momento)
+- Analista de Dados /  Grupo Energisa (08/2023 - Até o momento)
+- Analista de Dados / Youx Group - Unidade Analytics (04/2023 - 08/2023)
 - Analista de Dados (Google Maps) / Cognizant Technology Solutions (09/2022 - 03/2023)
 - Cientista de Dados (Espaciais) / Gaivota Sistemas Inteligentes (05/2022 - 07/2022)
 - Analista de Dados (SIG) / Vega Monitoramento (08/2021 - 04/2022)
