@@ -1,6 +1,6 @@
 # Olá, sou Ivan Figueiredo Borges👋
 
-Sou Engenheiro Florestal, pós graduado em Inteligência Artificial e Computacional.
+Sou Engenheiro Florestal, pós-graduado em Inteligência Artificial e Computacional.
 Atuo como Analista de Dados e estou cursando uma especialização em Engenharia de Dados.
 Por aqui vai achar códigos e rascunhos. Sinta-se a vontade para melhorar no que for possivel.
 
