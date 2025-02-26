@@ -1,7 +1,7 @@
 # Olá, sou Ivan Figueiredo Borges👋
 
 Sou Engenheiro Florestal, pós-graduado em Inteligência Artificial e Computacional.
-Atuo como Analista de Dados e estou cursando uma especialização em Engenharia de Dados.
+Atuo como Cientista de Dados, mas também tenho experiencia como Desenvolvedor GIS.
 Por aqui vai achar códigos e rascunhos. Sinta-se a vontade para melhorar no que for possivel.
 
 Minhas principais skills:
@@ -16,7 +16,8 @@ Minhas principais skills:
 
 ## Atuação Profissional 
 
-- Analista de Dados /  Grupo Energisa (08/2023 - Até o momento)
+- Cientista de Dados /  Xertica.ai (06/2024 - Até o momento)
+- Analista de Dados /  Grupo Energisa (08/2023 - 06/2024)
 - Analista de Dados / Youx Group - Unidade Analytics (04/2023 - 08/2023)
 - Analista de Dados (Google Maps) / Cognizant Technology Solutions (09/2022 - 03/2023)
 - Cientista de Dados (Espaciais) / Gaivota Sistemas Inteligentes (05/2022 - 07/2022)
