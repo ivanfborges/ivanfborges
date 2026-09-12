@@ -1,45 +1,35 @@
-# Olá, sou Ivan Figueiredo Borges👋
+# Ivan Borges
 
-Sou Engenheiro Florestal, pós-graduado em Inteligência Artificial e Computacional.
-Atuo como Cientista de Dados, mas também tenho experiencia como Desenvolvedor GIS.
-Por aqui vai achar códigos e rascunhos. Sinta-se a vontade para melhorar no que for possivel.
+**Ciência de Dados · Machine Learning · Análise Geoespacial**
 
-Minhas principais skills:
+Sou Cientista de Dados, formado em Engenharia Florestal e pós-graduado em Inteligência Artificial e Computacional. Minha trajetória reúne análise de dados, desenvolvimento GIS e engenharia de dados.
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> Python, <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> SQL, <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> R, <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> Estatística, <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> BI.
+Tenho interesse em conectar modelagem estatística e Machine Learning a problemas concretos, com atenção à qualidade dos dados, à avaliação dos resultados e às limitações de cada solução.
 
+[LinkedIn](https://www.linkedin.com/in/ivanfborges/) · [E-mail](mailto:ivanfborges@gmail.com)
 
-# Contato:
+## Explore meu trabalho
 
-<a href="https://www.linkedin.com/in/ivan-borges-7517a1115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> <a href = "ivanfborges@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+| Projeto | O que você encontra |
+|---|---|
+| [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab) | Laboratório de estudos com implementações de fundamentos de estatística e ML, experimentos visuais, testes e verificações automáticas. Os exemplos atuais usam dados sintéticos ou definidos em código. |
+| [EvoSuite × LLM](https://github.com/ivanfborges/sbst-vs-llm) | Estudo de geração de testes com prompts, código e evidências de cobertura e mutation testing. A comparação se refere a uma classe Java e inclui refinamento dos testes gerados por LLM. |
+| [Álbum da Copa 2026](https://github.com/ivanfborges/album-copa-2026-local) | Aplicação pessoal para acompanhar uma coleção de figurinhas, com armazenamento local, backups e exportação de relatórios. Inclui documentação de arquitetura e testes. |
 
-## Atuação Profissional 
+Para começar pelo conteúdo de Machine Learning: [pipeline de classificação com avaliação e inferência](https://github.com/ivanfborges/applied-ai-engineering-lab/tree/main/01-classical-machine-learning/01-end-to-end-ml-pipeline).
 
-- Cientista de Dados /  Xertica.ai (06/2024 - Até o momento)
-- Analista de Dados /  Grupo Energisa (08/2023 - 06/2024)
-- Analista de Dados / Youx Group - Unidade Analytics (04/2023 - 08/2023)
-- Analista de Dados (Google Maps) / Cognizant Technology Solutions (09/2022 - 03/2023)
-- Cientista de Dados (Espaciais) / Gaivota Sistemas Inteligentes (05/2022 - 07/2022)
-- Analista de Dados (SIG) / Vega Monitoramento (08/2021 - 04/2022)
-- Analista de Dados (SIG) / Agência Zetta (08/2020 - 07/2021)
-- Estagiário de Geoprocessamento / Agência Zetta (05/2019 - 07/2020)
+## Dados e território
 
-## Hard Skills:
-[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/ivanfborges/ivanfborges/edit/main/README.md)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/ivanfborges/ivanfborges/edit/main/README.md)
-[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/ivanfborges/ivanfborges/edit/main/README.md)
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.com/ivanfborges/ivanfborges/edit/main/README.md)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/ivanfborges/ivanfborges/edit/main/README.md)
-[![Hadoop](https://img.shields.io/badge/Hadoop-5849be?style=for-the-badge&logo=Hadoop&logoColor=white)](https://github.com/ivanfborges/ivanfborges/edit/main/README.md)
-[![AWS](https://img.shields.io/badge/AWS-0052CC?style=for-the-badge&logo=AWS&logoColor=white)](https://github.com/ivanfborges/ivanfborges/edit/main/README.md)
+Minha experiência com GIS também aparece em estudos de [dados do Airbnb no Rio de Janeiro](https://github.com/ivanfborges/eng_dados-analytics_engineering), [roteirização de entregas escolares](https://github.com/ivanfborges/eng_dados-prog_tech) e [visualização das ruas de Cataguases](https://github.com/ivanfborges/PYGEO_ruas-cataguases).
 
-- Ferramentas de Dataviz: Power BI, Tableau, Data Studio
-- Ferramentas de apoio: Excel, Git, R, Python para análise de dados
-- Estudos autônomos: Azure Data Factory, Databricks, Ecossistema Apache 
+São projetos de aprendizado, preservados com seu contexto original. O [índice de estudos](STUDIES.md) reúne esses trabalhos, a participação no Kaggle e os materiais de formação.
 
-<div>
-<a href="https://github.com/ivanfborges">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfborges&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanfborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## Experiência e ferramentas
+
+Minha trajetória inclui atuação em Ciência de Dados, análise de dados e geoprocessamento, em organizações como Xertica.ai, Energisa, Youx Group, Cognizant, Gaivota Sistemas Inteligentes, Vega Monitoramento e Agência Zetta.
+
+- **Análise e modelagem:** Python, SQL, R e estatística.
+- **Dados e processamento:** PostgreSQL, Spark, Databricks e dbt em projetos e estudos.
+- **Comunicação:** visualização de dados, mapas e BI.
+
+Os repositórios selecionados mostram a aplicação dessas ferramentas e o escopo de cada trabalho. Meu histórico profissional está disponível no [LinkedIn](https://www.linkedin.com/in/ivanfborges/).
