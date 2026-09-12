@@ -1,33 +1,35 @@
-# Estudos e projetos de formação
+# Studies and educational projects
 
-Este índice preserva o contexto dos exercícios, projetos acadêmicos e referências usados na minha formação. Os projetos selecionados estão no [perfil](README.md).
+**English** | [Português](STUDIES.pt-BR.md)
 
-## Machine Learning
+This index preserves the context of exercises, academic projects, and resources used throughout my learning. Selected work is featured on my [profile](README.md). Some linked repositories and original assignment materials are in Portuguese.
 
-- [ML Olympiad — TopVistos EUA](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA): participação em competição de classificação no Kaggle, com notebook de exploração e modelagem. A avaliação e a reprodução da versão de 2023 estão previstas para revisão; os números do notebook não representam uma nova avaliação independente.
-- [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab): fundamentos, experimentos e estudos de Ciência de Dados e IA aplicada.
+## Machine learning
 
-## Dados geoespaciais e engenharia de dados
+- [ML Olympiad — TopVistos EUA](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA): participation in a Kaggle classification competition, with an exploration and modeling notebook. Evaluation and reproducibility of the 2023 version are scheduled for review; notebook scores are not a new independent evaluation.
+- [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab): foundations, experiments, and studies in data science and applied AI.
 
-| Trabalho | Contexto |
+## Geospatial analytics and data engineering
+
+| Project | Context |
 |---|---|
-| [Airbnb no Rio de Janeiro](https://github.com/ivanfborges/eng_dados-analytics_engineering) | Projeto de Analytics Engineering com PostgreSQL, dbt e qualidade de dados. |
-| [Cadastro Ambiental Rural](https://github.com/ivanfborges/eng_dados-big_data) | Estudo com Spark e Databricks. O comparativo de desempenho da versão original precisa de revisão metodológica. |
-| [Entregas escolares](https://github.com/ivanfborges/eng_dados-prog_tech) | Projeto coletivo de tratamento de dados e roteirização; os integrantes estão identificados no notebook. |
-| [Ruas de Cataguases](https://github.com/ivanfborges/PYGEO_ruas-cataguases) | Visualização cartográfica a partir de estudos de Python para geoprocessamento. |
-| [Notícias sobre genômica](https://github.com/ivanfborges/eng_dados-data_extract) | Projeto acadêmico de ingestão com News API, Kafka e Spark. |
-| [Integração de APIs e arquivos](https://github.com/ivanfborges/eng_dados-data_extraction) | Exercício de ETL/ELT usando dados de usuários e carrinhos. |
+| [Airbnb in Rio de Janeiro](https://github.com/ivanfborges/eng_dados-analytics_engineering) | An analytics engineering project with PostgreSQL, dbt, and data quality checks. |
+| [Brazilian Rural Environmental Registry](https://github.com/ivanfborges/eng_dados-big_data) | A Spark and Databricks study. The original performance comparison needs a methodological review. |
+| [School-supply deliveries](https://github.com/ivanfborges/eng_dados-prog_tech) | A group project on data preparation and routing; contributors are identified in the notebook. |
+| [Streets of Cataguases](https://github.com/ivanfborges/PYGEO_ruas-cataguases) | Street-map visualization developed while studying Python for GIS. |
+| [Genomics news](https://github.com/ivanfborges/eng_dados-data_extract) | An academic ingestion project using News API, Kafka, and Spark. |
+| [API and file integration](https://github.com/ivanfborges/eng_dados-data_extraction) | An ETL/ELT exercise using user and shopping-cart data. |
 
-## Fundamentos de programação
+## Programming foundations
 
-- [Lógica de programação e cadastro](https://github.com/ivanfborges/eng_dados-prog_logic).
-- [Projeto de orientação a objetos](https://github.com/ivanfborges/eng_dados-POO).
-- [Exercícios de orientação a objetos](https://github.com/ivanfborges/ADA1011POO).
+- [Programming logic and a registration application](https://github.com/ivanfborges/eng_dados-prog_logic).
+- [Object-oriented programming project](https://github.com/ivanfborges/eng_dados-POO).
+- [Object-oriented programming exercises](https://github.com/ivanfborges/ADA1011POO).
 
-## Referências e forks educacionais
+## References and educational forks
 
-Os repositórios abaixo preservam materiais de outros autores. A autoria e as condições de uso permanecem nos respectivos projetos de origem.
+The following repositories preserve other authors' materials. Attribution and terms of use remain with their respective upstream projects.
 
-- [Ciência da Computação — Universidade Livre](https://github.com/ivanfborges/ciencia-da-computacao).
+- [Computer Science — Universidade Livre](https://github.com/ivanfborges/ciencia-da-computacao).
 - [Digital Innovation One](https://github.com/ivanfborges/digital_innovation_one).
-- Data Viking: [bases](https://github.com/ivanfborges/data-viking_bootcamp_eng-dados_bases), [Databricks](https://github.com/ivanfborges/data-viking_bootcamp_eng-dados_databricks) e [Data Factory](https://github.com/ivanfborges/data-viking_bootcamp_eng-dados_datafactory).
+- Data Viking: [datasets](https://github.com/ivanfborges/data-viking_bootcamp_eng-dados_bases), [Databricks](https://github.com/ivanfborges/data-viking_bootcamp_eng-dados_databricks), and [Data Factory](https://github.com/ivanfborges/data-viking_bootcamp_eng-dados_datafactory).
