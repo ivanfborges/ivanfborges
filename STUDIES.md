@@ -6,7 +6,7 @@ This index preserves the context of exercises, academic projects, and resources 
 
 ## Machine learning
 
-- [ML Olympiad — TopVistos EUA](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA): a Kaggle classification study with a preserved historical notebook and a reproducible classification pipeline. The current version compares seven model configurations, selects a decision threshold on validation data, documents error tradeoffs, and includes automated tests and English/Portuguese reports. Final-holdout evaluation remains pending.
+- [ML Olympiad — TopVistos EUA](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA): a Kaggle classification study with a preserved historical notebook and a reproducible classification pipeline. The current version compares seven model configurations, selects a decision threshold on validation data, documents error tradeoffs, and includes automated tests and English/Portuguese reports. Final evaluation reports macro F1 of 0.701, uncertainty intervals, calibration and segment-level error limitations.
 - [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab): foundations, experiments, and studies in data science and applied AI.
 
 ## Geospatial analytics and data engineering
