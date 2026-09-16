@@ -14,6 +14,7 @@ Tenho interesse em conectar modelagem estatística e Machine Learning a problema
 
 | Projeto | O que você encontra |
 |---|---|
+| [TopVistos — Estudo de Classificação](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA) | Seleção reproduzível de modelos, avaliação final com incerteza e análise por segmentos, além de CLI de inferência com validação. Inclui relatórios bilíngues, exemplos sintéticos e testes automatizados. |
 | [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab) | Laboratório de estudos com implementações de fundamentos de estatística e ML, experimentos visuais, testes e verificações automáticas. Os exemplos atuais usam dados sintéticos ou definidos em código. |
 | [EvoSuite × LLM](https://github.com/ivanfborges/sbst-vs-llm) | Estudo de geração de testes com prompts, código e evidências de cobertura e mutation testing. A comparação se refere a uma classe Java e inclui refinamento dos testes gerados por LLM. |
 | [Álbum da Copa 2026](https://github.com/ivanfborges/album-copa-2026-local) | Aplicação pessoal para acompanhar uma coleção de figurinhas, com armazenamento local, backups e exportação de relatórios. Inclui documentação de arquitetura e testes. |

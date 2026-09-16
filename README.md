@@ -14,6 +14,7 @@ I am interested in applying statistical modeling and machine learning to practic
 
 | Project | What you will find |
 |---|---|
+| [TopVistos — Classification Study](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA) | Reproducible model selection, final evaluation with uncertainty and segment analysis, and a validated inference CLI. Includes bilingual reports, synthetic examples, and automated tests. |
 | [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab) | A study lab with implementations of statistics and ML fundamentals, visual experiments, tests, and automated checks. Current examples use synthetic or code-defined data. |
 | [EvoSuite vs. LLM](https://github.com/ivanfborges/sbst-vs-llm) | A test-generation study with prompts, code, coverage reports, and mutation-testing evidence. The comparison covers one Java class and includes refinement of LLM-generated tests. |
 | [World Cup 2026 Sticker Album](https://github.com/ivanfborges/album-copa-2026-local) | A personal collection tracker with local storage, backups, and report exports. Includes architecture documentation and tests. |
