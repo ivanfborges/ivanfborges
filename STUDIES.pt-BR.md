@@ -13,7 +13,7 @@ Este índice preserva o contexto dos exercícios, projetos acadêmicos e referê
 
 | Trabalho | Contexto |
 |---|---|
-| [Airbnb no Rio de Janeiro](https://github.com/ivanfborges/eng_dados-analytics_engineering) | Projeto de Analytics Engineering com PostgreSQL, dbt e qualidade de dados. |
+| [Airbnb no Rio de Janeiro](https://github.com/ivanfborges/eng_dados-analytics_engineering) | Estudo de ML geoespacial com partições por anfitrião, baselines, avaliação final congelada (MAE R$ 482,67, 22,22% menor que baseline) e inferência validada. Preserva o material acadêmico original de PostgreSQL/dbt. |
 | [Cadastro Ambiental Rural](https://github.com/ivanfborges/eng_dados-big_data) | Estudo com Spark e Databricks. O comparativo de desempenho da versão original precisa de revisão metodológica. |
 | [Entregas escolares](https://github.com/ivanfborges/eng_dados-prog_tech) | Projeto coletivo de tratamento de dados e roteirização; os integrantes estão identificados no notebook. |
 | [Ruas de Cataguases](https://github.com/ivanfborges/PYGEO_ruas-cataguases) | Visualização cartográfica a partir de estudos de Python para geoprocessamento. |

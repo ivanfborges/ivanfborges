@@ -13,7 +13,7 @@ This index preserves the context of exercises, academic projects, and resources 
 
 | Project | Context |
 |---|---|
-| [Airbnb in Rio de Janeiro](https://github.com/ivanfborges/eng_dados-analytics_engineering) | An analytics engineering project with PostgreSQL, dbt, and data quality checks. |
+| [Airbnb in Rio de Janeiro](https://github.com/ivanfborges/eng_dados-analytics_engineering) | Geospatial ML study with host-separated partitions, baselines, frozen final evaluation (MAE BRL 482.67, 22.22% below baseline), and validated inference. Preserves its original PostgreSQL/dbt academic material. |
 | [Brazilian Rural Environmental Registry](https://github.com/ivanfborges/eng_dados-big_data) | A Spark and Databricks study. The original performance comparison needs a methodological review. |
 | [School-supply deliveries](https://github.com/ivanfborges/eng_dados-prog_tech) | A group project on data preparation and routing; contributors are identified in the notebook. |
 | [Streets of Cataguases](https://github.com/ivanfborges/PYGEO_ruas-cataguases) | Street-map visualization developed while studying Python for GIS. |

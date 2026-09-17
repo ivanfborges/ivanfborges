@@ -14,6 +14,7 @@ I am interested in applying statistical modeling and machine learning to practic
 
 | Project | What you will find |
 |---|---|
+| [Rio Airbnb — Geospatial ML](https://github.com/ivanfborges/eng_dados-analytics_engineering) | Host-separated evaluation, spatial diagnostics and a frozen inference CLI. Final holdout MAE 22.22% below the room-type baseline; bilingual reports, fictional examples and automated tests. |
 | [TopVistos — Classification Study](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA) | Reproducible model selection, final evaluation with uncertainty and segment analysis, and a validated inference CLI. Includes bilingual reports, synthetic examples, and automated tests. |
 | [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab) | A study lab with implementations of statistics and ML fundamentals, visual experiments, tests, and automated checks. Current examples use synthetic or code-defined data. |
 | [EvoSuite vs. LLM](https://github.com/ivanfborges/sbst-vs-llm) | A test-generation study with prompts, code, coverage reports, and mutation-testing evidence. The comparison covers one Java class and includes refinement of LLM-generated tests. |
@@ -25,7 +26,7 @@ For a machine learning starting point, explore the [classification pipeline with
 
 My GIS background also informs studies of [Airbnb data in Rio de Janeiro](https://github.com/ivanfborges/eng_dados-analytics_engineering), [school-supply delivery routing](https://github.com/ivanfborges/eng_dados-prog_tech), and [street mapping in Cataguases](https://github.com/ivanfborges/PYGEO_ruas-cataguases).
 
-These learning projects retain their original context. The [study index](STUDIES.md) brings together this work, my Kaggle participation, and educational resources. Some original materials are in Portuguese.
+The Airbnb study now includes a complete ML evaluation and inference workflow; the other learning projects retain their original context. The [study index](STUDIES.md) brings together this work, my Kaggle participation, and educational resources. Some original materials are in Portuguese.
 
 ## Experience and tools
 
