@@ -20,7 +20,7 @@ Tenho interesse em conectar modelagem estatística e Machine Learning a problema
 | [EvoSuite × LLM](https://github.com/ivanfborges/sbst-vs-llm) | Estudo de geração de testes com prompts, código e evidências de cobertura e mutation testing. A comparação se refere a uma classe Java e inclui refinamento dos testes gerados por LLM. |
 | [Álbum da Copa 2026](https://github.com/ivanfborges/album-copa-2026-local) | Aplicação pessoal para acompanhar uma coleção de figurinhas, com armazenamento local, backups e exportação de relatórios. Inclui documentação de arquitetura e testes. |
 
-Para começar pelo conteúdo de Machine Learning: [pipeline de classificação com avaliação e inferência](https://github.com/ivanfborges/applied-ai-engineering-lab/tree/main/01-classical-machine-learning/01-end-to-end-ml-pipeline).
+Para começar pelo conteúdo de Machine Learning: [pipeline de classificação com avaliação e inferência](https://github.com/ivanfborges/applied-ai-engineering-lab/tree/main/01-classical-machine-learning/16-end-to-end-ml-pipeline).
 
 ## Dados e território
 
