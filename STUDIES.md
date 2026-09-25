@@ -7,7 +7,7 @@ This index preserves the context of exercises, academic projects, and resources 
 ## Machine learning
 
 - [ML Olympiad — TopVistos EUA](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA): a Kaggle classification study with a preserved historical notebook and a reproducible classification pipeline. The current version compares seven model configurations, selects a decision threshold on validation data, documents error tradeoffs, and includes automated tests and English/Portuguese reports. Final evaluation reports macro F1 of 0.701, uncertainty intervals, calibration and segment-level error limitations.
-- [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab): foundations, experiments, and studies in data science and applied AI.
+- [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab): 22 implemented studies spanning foundations and classical ML, with numerical code, synthetic visual experiments, tests, and an explicit distinction between implemented topics and the future roadmap.
 
 ## Geospatial analytics and data engineering
 
@@ -19,6 +19,10 @@ This index preserves the context of exercises, academic projects, and resources 
 | [Streets of Cataguases](https://github.com/ivanfborges/PYGEO_ruas-cataguases) | Street-map visualization developed while studying Python for GIS. |
 | [Genomics news](https://github.com/ivanfborges/eng_dados-data_extract) | An academic ingestion project using News API, Kafka, and Spark. |
 | [API and file integration](https://github.com/ivanfborges/eng_dados-data_extraction) | An ETL/ELT exercise using user and shopping-cart data. |
+
+## Software testing research
+
+- [EvoSuite vs. LLM](https://github.com/ivanfborges/sbst-vs-llm): an archived one-class comparison with traceable coverage and mutation evidence, its limitations, and a protocol for a broader future study. The refined LLM suite used PIT feedback; the archive does not support a general generator comparison.
 
 ## Programming foundations
 

@@ -7,7 +7,7 @@ Este índice preserva o contexto dos exercícios, projetos acadêmicos e referê
 ## Machine Learning
 
 - [ML Olympiad — TopVistos EUA](https://github.com/ivanfborges/ML_olympiad_for_students-topvistos_EUA): estudo de classificação do Kaggle com notebook histórico preservado e pipeline reproduzível de classificação. A versão atual compara sete configurações de modelos, escolhe o limiar nos dados de validação, documenta o compromisso entre os erros e inclui testes automatizados e relatórios em inglês e português. A avaliação final apresenta F1 macro de 0,701, intervalos de incerteza, calibração e limitações dos erros por segmentos.
-- [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab): fundamentos, experimentos e estudos de Ciência de Dados e IA aplicada.
+- [Applied AI Engineering Lab](https://github.com/ivanfborges/applied-ai-engineering-lab): 22 estudos implementados entre fundamentos e ML clássico, com código numérico, experimentos visuais sintéticos, testes e distinção explícita entre estudos prontos e roteiro futuro.
 
 ## Dados geoespaciais e engenharia de dados
 
@@ -19,6 +19,10 @@ Este índice preserva o contexto dos exercícios, projetos acadêmicos e referê
 | [Ruas de Cataguases](https://github.com/ivanfborges/PYGEO_ruas-cataguases) | Visualização cartográfica a partir de estudos de Python para geoprocessamento. |
 | [Notícias sobre genômica](https://github.com/ivanfborges/eng_dados-data_extract) | Projeto acadêmico de ingestão com News API, Kafka e Spark. |
 | [Integração de APIs e arquivos](https://github.com/ivanfborges/eng_dados-data_extraction) | Exercício de ETL/ELT usando dados de usuários e carrinhos. |
+
+## Pesquisa em testes de software
+
+- [EvoSuite × LLM](https://github.com/ivanfborges/sbst-vs-llm): comparação histórica de uma classe, com evidências rastreáveis de cobertura e mutação, limites e protocolo para uma pesquisa futura mais ampla. A suíte LLM refinada usou feedback do PIT; o arquivo não sustenta comparação geral entre geradores.
 
 ## Fundamentos de programação
 
