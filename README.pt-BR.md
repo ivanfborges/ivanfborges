@@ -8,7 +8,7 @@ Sou Cientista de Dados, formado em Engenharia Florestal e pós-graduado em Intel
 
 Tenho interesse em conectar modelagem estatística e Machine Learning a problemas concretos, com atenção à qualidade dos dados, à avaliação dos resultados e às limitações de cada solução.
 
-[LinkedIn](https://www.linkedin.com/in/ivanfborges/) · [E-mail](mailto:ivanfborges@gmail.com)
+[Site do portfólio](https://ivanfborges.github.io/pt/) · [LinkedIn](https://www.linkedin.com/in/ivanfborges/) · [E-mail](mailto:ivanfborges@gmail.com)
 
 ## Explore meu trabalho
 

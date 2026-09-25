@@ -8,7 +8,7 @@ I am a Data Scientist with a degree in Forest Engineering and postgraduate studi
 
 I am interested in applying statistical modeling and machine learning to practical problems, with attention to data quality, evaluation, and the limitations of each solution.
 
-[LinkedIn](https://www.linkedin.com/in/ivanfborges/) · [Email](mailto:ivanfborges@gmail.com)
+[Portfolio site](https://ivanfborges.github.io/) · [LinkedIn](https://www.linkedin.com/in/ivanfborges/) · [Email](mailto:ivanfborges@gmail.com)
 
 ## Explore my work
 
